@@ -35,8 +35,9 @@ Hi There, I'm dusteclipse – a passionate Python developer who loves clean code
 My pronouns are he/him, and I’m always up for collaborating on open-source and creative tools.
 
 🚀 Tech Stack
+
 Languages: Python, JavaScript (a little), Bash  
-Frameworks: FastAPI, RestAPI 
+Frameworks: FastAPI, RestAPI     
 Tools: Git, Docker, Linux, aiosqlite, SQLite  
 Favorite IDE: VSCode  
 
