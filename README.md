@@ -50,7 +50,7 @@ Favorite IDE: VSCode
     Game-dev
 
 📬 Contact Me
-📫 Telegram: @dusteclipse
+📫 Telegram: @switch_sandwich
 
 📁 GitHub Repos: Check the pinned ones below!
 📈 GitHub Stats
