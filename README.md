@@ -54,7 +54,7 @@ Favorite IDE: VSCode
 
 📁 GitHub Repos: Check the pinned ones below!
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=switchsandwich&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dusteclipsee&layout=compact&theme=tokyonight" height="150" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=switchsandwich&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=switchsandwich&layout=compact&theme=tokyonight" height="150" /> </p>
 🧠 Quote I Like
 
 “Programs must be written for people to read, and only incidentally for machines to execute.”  
